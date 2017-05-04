@@ -9,9 +9,9 @@
 
 Sistema de conversión de monedas muy facil de utilizar.
 
-## [Clique e veja online](https://one-exchange.herokuapp.com/)
+## [Clique e veja online](https://datavision-exchange.herokuapp.com/)
 
-![One Exchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
+![DataVisionExchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
 
 # Stack
 ```
