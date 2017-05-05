@@ -9,7 +9,7 @@
 
 Aplicativo que simula la conversió de monedas. Sirve para que el usuário pueda reallizar una consulta rápida de cual es el valor de su dinero comparando la cantidad digitada en otra moneda. Puede escoger una moneda local o consultar entre las principales monedas del mundo...
 
-## [Clique e veja online](https://datavision-exchange.herokuapp.com/)
+## [Click aqui para ver su funcionamiento](https://datavision-exchange.herokuapp.com/)
 
 ![DataVisionExchange](https://cloud.githubusercontent.com/assets/11140145/25731440/677314a6-3114-11e7-834e-e50207d701fc.png)
 
