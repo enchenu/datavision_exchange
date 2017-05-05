@@ -5,13 +5,13 @@
 ![rails](https://img.shields.io/badge/Rails-5.0.1-red.svg)
 ![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
-## Sobre o projeto
+## Acerca de este proyecto
 
-Sistema de conversión de monedas muy facil de utilizar.
+Aplicativo que simula la conversió de monedas. Sirve para que el usuário pueda reallizar una consulta rápida de cual es el valor de su dinero comparando la cantidad digitada en otra moneda. Puede escoger una moneda local o consultar entre las principales monedas del mundo...
 
 ## [Clique e veja online](https://datavision-exchange.herokuapp.com/)
 
-![DataVisionExchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
+![DataVisionExchange](https://raw.githubusercontent.com//enchenu/datavision_exchange/blob/master/public/screenshot.png)
 
 # Stack
 ```
