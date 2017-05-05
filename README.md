@@ -11,7 +11,7 @@ Aplicativo que simula la conversió de monedas. Sirve para que el usuário pueda
 
 ## [Clique e veja online](https://datavision-exchange.herokuapp.com/)
 
-![DataVisionExchange](https://raw.githubusercontent.com//enchenu/datavision_exchange/blob/master/public/screenshot.png)
+![DataVisionExchange](https://raw.githubusercontent.com/enchenu/datavision_exchange/blob/master/public/screenshot.png)
 
 # Stack
 ```
