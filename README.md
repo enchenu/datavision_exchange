@@ -1,25 +1,36 @@
-# README
+**DataVision-Exchange**
+=======================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![ruby](https://img.shields.io/badge/Ruby-2.4.1-red.svg)
+![rails](https://img.shields.io/badge/Rails-5.0.1-red.svg)
+![rails](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 
-Things you may want to cover:
+## Sobre o projeto
 
-* Ruby version
+Sistema de conversión de monedas muy facil de utilizar.
 
-* System dependencies
+## [Clique e veja online](https://datavision-exchange.herokuapp.com/)
 
-* Configuration
+![DataVisionExchange](https://raw.githubusercontent.com/cheesepaulo/OneExchange/master/app/assets/images/screenshot.png)
 
-* Database creation
+# Stack
+```
+  * Application
+```
 
-* Database initialization
+# Dependencies
+```
+  * Fixer.io to consult currency rates
+```
 
-* How to run the test suite
+# Getting Started
+```
+  * docker-compose build
+  * docker-compose run --rm website rake db:create db:migrate
+  * docker-compose up
+```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# datavision_exchange
+# Test
+```
+  * docker-compose run --rm website rspec
+```
